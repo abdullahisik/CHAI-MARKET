@@ -1,0 +1,21 @@
+{
+  "bank": {
+    "accountName": "CHAI MARKET",
+    "bankName": "YOUR BANK NAME",
+    "sortCode": "00-00-00",
+    "accountNumber": "00000000"
+  },
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "tiktok": "",
+    "whatsapp": ""
+  },
+  "appearance": {
+    "themePreset": "classic",
+    "headerStyle": "centered",
+    "bannerStyle": "soft",
+    "cardRadius": "xl",
+    "shadowStyle": "strong"
+  }
+}

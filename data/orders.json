@@ -1,0 +1,69 @@
+[
+  {
+    "id": "ORD-1775294619670",
+    "createdAt": "2026-04-04T09:23:39.670Z",
+    "status": "cancelled",
+    "paymentMethod": "bank-transfer",
+    "customer": {
+      "fullName": "ABDULLAH ISIK",
+      "email": "cryptocratico@outlook.com",
+      "phone": "07738800784",
+      "address": "1\nChadwick Close",
+      "notes": ""
+    },
+    "items": [
+      {
+        "productSlug": "black-beluga-lentils",
+        "productName": "Black Beluga Lentils",
+        "size": "1kg",
+        "purchaseType": "retail",
+        "unitPrice": 14.55,
+        "boxQty": 8,
+        "image": "/products/PULSES/1 KG/BLACK BELUGA LENTILS 1KG.jpg",
+        "vatClass": "zero",
+        "id": "black-beluga-lentils__1kg__retail",
+        "quantity": 1
+      },
+      {
+        "productSlug": "black-eye-beans",
+        "productName": "Black Eye Beans",
+        "size": "1kg",
+        "purchaseType": "box",
+        "unitPrice": 54,
+        "boxQty": 8,
+        "image": "/products/PULSES/1 KG/BLACK EYE BEANS.jpg",
+        "vatClass": "zero",
+        "id": "black-eye-beans__1kg__box",
+        "quantity": 1
+      }
+    ],
+    "subtotal": 68.55,
+    "vatTotal": 0,
+    "shipping": 4.99,
+    "grandTotal": 73.53999999999999,
+    "whatsappText": "Hello, I want to place this order.\nOrder ID: ORD-1775294619670\nPayment Method: bank-transfer\n\nCustomer Details\nName: ABDULLAH ISIK\nEmail: cryptocratico@outlook.com\nPhone: 07738800784\nAddress: 1\nChadwick Close\n\nItems\n- Black Beluga Lentils | Size: 1kg | Type: retail | Qty: 1 | Line Total: £14.55\n- Black Eye Beans | Size: 1kg | Type: box | Qty: 1 | Line Total: £54.00\n\nSubtotal: £68.55\nVAT: £0.00\nShipping: £4.99\nTotal: £73.54\n\nI selected bank transfer. Please send me payment details."
+  },
+  {
+    "id": "ORD-1775254206526",
+    "createdAt": "2026-04-03T22:10:06.526Z",
+    "items": [
+      {
+        "productSlug": "almond-raw",
+        "productName": "Almond Raw",
+        "size": "400GR",
+        "purchaseType": "box",
+        "unitPrice": 59.99,
+        "boxQty": 16,
+        "image": "/products/NUTS/BIG NUTS/ALMOND RAW.jpg",
+        "vatClass": "zero",
+        "id": "almond-raw__400GR__box",
+        "quantity": 2
+      }
+    ],
+    "subtotal": 119.98,
+    "vatTotal": 0,
+    "shipping": 0,
+    "grandTotal": 119.98,
+    "whatsappText": "Hello, I want to place this order.\nOrder ID: ORD-1775254206526\n\n- Almond Raw | Size: 400GR | Type: box | Qty: 2 | Line Total: £119.98\n\nSubtotal: £119.98\nVAT: £0.00\nShipping: £0.00\nTotal: £119.98"
+  }
+]

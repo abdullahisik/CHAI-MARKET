@@ -1,0 +1,5027 @@
+[
+  {
+    "slug": "corn-meal-extra-coarse",
+    "name": "Corn Meal Extra Coarse",
+    "category": "Un",
+    "subCategory": "Flour-Oats",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/1 KG/CORN MEAL EXTRA COARSE 1KG.jpg"
+      },
+      {
+        "size": "1.8kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/2-4 KG/CORN MEAL EXTRA COARSE 1.8KG.jpg"
+      },
+      {
+        "size": "3.7kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/2-4 KG/CORN MEAL EXTRA COARSE 3.7KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "corn-meal-fine",
+    "name": "Corn Meal Fine",
+    "category": "Un",
+    "subCategory": "Flour-Oats",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/1 KG/CORN MEAL FINE 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "corn-meal-medium",
+    "name": "Corn Meal Medium",
+    "category": "Un",
+    "subCategory": "Flour-Oats",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/1 KG/CORN MEAL MEDIUM 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "semolina-coarse",
+    "name": "Semolina Coarse",
+    "category": "Un",
+    "subCategory": "Flour-Oats",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/1 KG/SEMOLINA COARSE 1KG.jpg"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/2-4 KG/SEMOLINA COARSE 2KG.jpg"
+      },
+      {
+        "size": "3.8kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/2-4 KG/SEMOLINA COARSE 3.8KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "semolina-extra-coarse",
+    "name": "Semolina Extra Coarse",
+    "category": "Un",
+    "subCategory": "Flour-Oats",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/1 KG/SEMOLINA EXTRA COARSE 1KG.jpg"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/2-4 KG/SEMOLINA EXTRA COARSE 2KG.jpg"
+      },
+      {
+        "size": "3.8kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/2-4 KG/SEMOLINA EXTRA COARSE 3.8KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "semolina-extra-fine",
+    "name": "Semolina Extra Fine",
+    "category": "Un",
+    "subCategory": "Flour-Oats",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/1 KG/SEMOLINA EXTRA FINE 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "semolina-fine",
+    "name": "Semolina Fine",
+    "category": "Un",
+    "subCategory": "Flour-Oats",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/1 KG/SEMOLINA FINE 1KG.jpg"
+      },
+      {
+        "size": "1.9kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/2-4 KG/SEMOLINA FINE 1.9KG.jpg"
+      },
+      {
+        "size": "3.7kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/2-4 KG/SEMOLINA FINE 3.7KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "barley-flour",
+    "name": "Barley Flour",
+    "category": "Un",
+    "subCategory": "Flour-Oats",
+    "description": "",
+    "variants": [
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/HALF KG/BARLEY FLOUR.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "corn-flour",
+    "name": "Corn Flour",
+    "category": "Un",
+    "subCategory": "Flour-Oats",
+    "description": "",
+    "variants": [
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/HALF KG/CORN FLOUR.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "maize-meal-white",
+    "name": "Maize Meal White",
+    "category": "Un",
+    "subCategory": "Flour-Oats",
+    "description": "",
+    "variants": [
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/HALF KG/MAIZE MEAL WHITE.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "rice-flour",
+    "name": "Rice Flour",
+    "category": "Un",
+    "subCategory": "Flour-Oats",
+    "description": "",
+    "variants": [
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/HALF KG/RICE FLOUR.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "tapioca-flour",
+    "name": "Tapioca Flour",
+    "category": "Un",
+    "subCategory": "Flour-Oats",
+    "description": "",
+    "variants": [
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/FLOUR-OATS/HALF KG/TAPIOCA FLOUR.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "almond-raw",
+    "name": "Almond Raw",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "400GR",
+        "retailPrice": "3.99",
+        "retailDiscountPrice": "",
+        "boxQty": 16,
+        "boxPrice": "59.99",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/ALMOND RAW.jpg",
+        "unitStock": 12,
+        "boxStock": 10,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "apricot",
+    "name": "Apricot",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/APRICOT.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "bbq-corn",
+    "name": "Bbq Corn",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/BBQ CORN.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "bombay-mix",
+    "name": "Bombay Mix",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/BOMBAY MIX.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "cashew-raw",
+    "name": "Cashew Raw",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/CASHEW RAW.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "corn-salted",
+    "name": "Corn Salted",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/CORN SALTED.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "desiccated-coconut-fine",
+    "name": "Desiccated Coconut Fine",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/DESICCATED COCONUT FINE.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "desiccated-coconut-medium",
+    "name": "Desiccated Coconut Medium",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/DESICCATED COCONUT MEDIUM.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "festive-mix",
+    "name": "Festive Mix",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/FESTIVE MIX.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "fruit-and-nut-mix",
+    "name": "Fruit & Nut Mix",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/FRUIT & NUT MIX.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "golden-sultana",
+    "name": "Golden Sultana",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/GOLDEN SULTANA.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "green-raisins",
+    "name": "Green Raisins",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/GREEN RAISINS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "hazelnut-blanched",
+    "name": "Hazelnut Blanched",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/HAZELNUT BLANCHED.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "hazelnut-with-skin",
+    "name": "Hazelnut With Skin",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/HAZELNUT WITH SKIN.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "jumbo-salted-pumpkin-seeds",
+    "name": "Jumbo Salted Pumpkin Seeds",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/JUMBO SALTED PUMPKIN SEEDS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "lemon-and-chilli-corn",
+    "name": "Lemon & Chilli Corn",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/LEMON & CHILLI CORN.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "luxury-mix-nut",
+    "name": "Luxury Mix Nut",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/LUXURY MIX NUT.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "peanut-salted-with-skin",
+    "name": "Peanut Salted With Skin",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/PEANUT SALTED WITH SKIN.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "pistachio-kernel",
+    "name": "Pistachio Kernel",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/PISTACHIO KERNEL.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "pistachio-mix",
+    "name": "Pistachio Mix",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/PISTACHIO MIX.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "pistachio-salted",
+    "name": "Pistachio Salted",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/PISTACHIO SALTED.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "pumpkin-seed-kernels",
+    "name": "Pumpkin Seed Kernels",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/PUMPKIN SEED KERNELS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "raw-monkey-nuts",
+    "name": "Raw Monkey Nuts",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/RAW MONKEY NUTS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "raw-peanut-with-red-skin",
+    "name": "Raw Peanut With Red Skin",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/RAW PEANUT WITH RED SKIN.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "raw-pistachio-in-shell",
+    "name": "Raw Pistachio In Shell",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/RAW PISTACHIO IN SHELL.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "roasted-blanched-chana",
+    "name": "Roasted Blanched Chana",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/ROASTED BLANCHED CHANA.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "roastes-chana-with-skin",
+    "name": "Roastes Chana With Skin",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/ROASTES CHANA WITH SKIN.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "royal-mix-nut",
+    "name": "Royal Mix Nut",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/ROYAL MIX NUT.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "salted-almonds-and-cashews",
+    "name": "Salted Almonds & Cashews",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/SALTED ALMONDS & CASHEWS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "salted-almonds",
+    "name": "Salted Almonds",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/SALTED ALMONDS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "salted-cashews",
+    "name": "Salted Cashews",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/SALTED CASHEWS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "spicy-corn",
+    "name": "Spicy Corn",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/SPICY CORN.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "sultana",
+    "name": "Sultana",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/SULTANA.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "sun-dried-apricots",
+    "name": "Sun Dried Apricots",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/SUN DRIED APRICOTS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "super-melon-seeds",
+    "name": "Super Melon Seeds",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/SUPER MELON SEEDS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "turkish-pistachio",
+    "name": "Turkish Pistachio",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/TURKISH PISTACHIO.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "turkish-sultana",
+    "name": "Turkish Sultana",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/TURKISH SULTANA.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "walnut",
+    "name": "Walnut",
+    "category": "Kuruyemis",
+    "subCategory": "Big Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/BIG NUTS/WALNUT.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "almond-flakes",
+    "name": "Almond Flakes",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/ALMOND FLAKES.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "almond-in-shell",
+    "name": "Almond In Shell",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/ALMOND IN SHELL.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "almond-lemon",
+    "name": "Almond Lemon",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/ALMOND LEMON.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "almond-salted",
+    "name": "Almond Salted",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/ALMOND SALTED.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "bajra",
+    "name": "Bajra",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/BAJRA.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "banana-chips",
+    "name": "Banana Chips",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/BANANA CHIPS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "barberries",
+    "name": "Barberries",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/BARBERRIES.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "black-raisins",
+    "name": "Black Raisins",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/BLACK RAISINS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "black-sesame-seed",
+    "name": "Black Sesame Seed",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/BLACK SESAME SEED.jpg"
+      },
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/1 KG/BLACK SESAME SEED.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "brazil-nuts",
+    "name": "Brazil Nuts",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/BRAZIL NUTS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "caramel-sesame-almonds",
+    "name": "Caramel Sesame Almonds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/CARAMEL SESAME ALMONDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "cheese-cashew",
+    "name": "Cheese Cashew",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/CHEESE CASHEW.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "chilli-cashew",
+    "name": "Chilli Cashew",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/CHILLI CASHEW.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "chilli-rice-crackers",
+    "name": "Chilli Rice Crackers",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/CHILLI RICE CRACKERS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "citric-acid",
+    "name": "Citric Acid",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/CITRIC ACID.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "diced-mango",
+    "name": "Diced Mango",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/DICED MANGO.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "double-roasted-chickpea",
+    "name": "Double Roasted Chickpea",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/DOUBLE ROASTED CHICKPEA.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "dried-lime-black",
+    "name": "Dried Lime Black",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/DRIED LIME BLACK.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "dried-lime-brown",
+    "name": "Dried Lime Brown",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/DRIED LIME BROWN.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "ginger-chunks",
+    "name": "Ginger Chunks",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/GINGER CHUNKS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "goji-berry",
+    "name": "Goji Berry",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/GOJI BERRY.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "green-raisin",
+    "name": "Green Raisin",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/GREEN RAISIN.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "hazelnut-jumbo-with-skin",
+    "name": "Hazelnut Jumbo With Skin",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/HAZELNUT JUMBO WITH SKIN.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "himalayan-pink-rock-salt-coarse",
+    "name": "Himalayan Pink Rock Salt Coarse",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/HIMALAYAN PINK ROCK SALT COARSE.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "himalayan-pink-rock-salt-fine",
+    "name": "Himalayan Pink Rock Salt Fine",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/HIMALAYAN PINK ROCK SALT FINE.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "honey-almonds",
+    "name": "Honey Almonds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/HONEY ALMONDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "honey-cashew",
+    "name": "Honey Cashew",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/HONEY CASHEW.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "honey-chilli-almonds",
+    "name": "Honey Chilli Almonds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/HONEY CHILLI ALMONDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "honey-peanuts",
+    "name": "Honey Peanuts",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/HONEY PEANUTS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "honey-sesame-almonds",
+    "name": "Honey Sesame Almonds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/HONEY SESAME ALMONDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "iranian-dry-figs",
+    "name": "Iranian Dry Figs",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/IRANIAN DRY FIGS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "jumbo-unsalted-pumpkin-seeds",
+    "name": "Jumbo Unsalted Pumpkin Seeds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/JUMBO UNSALTED PUMPKIN SEEDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "khakshir",
+    "name": "Khakshir",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/KHAKSHIR.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "lemon-chilli-corn",
+    "name": "Lemon Chilli Corn",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/LEMON CHILLI CORN.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "mixed-berries",
+    "name": "Mixed Berries",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MIXED BERRIES.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "mixed-fruit-and-nuts",
+    "name": "Mixed Fruit And Nuts",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MIXED FRUIT AND NUTS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "mixed-raw-nuts",
+    "name": "Mixed Raw Nuts",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MIXED RAW NUTS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "monalisa-citric-acid",
+    "name": "Monalisa Citric Acid",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MONALISA CITRIC ACID.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "monalisa-dried-lime-black",
+    "name": "Monalisa Dried Lime Black",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MONALISA DRIED LIME BLACK.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "monalisa-dried-lime-brown",
+    "name": "Monalisa Dried Lime Brown",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MONALISA DRIED LIME BROWN.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "monalisa-jareesh",
+    "name": "Monalisa Jareesh",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MONALISA JAREESH.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "monalisa-jumbo-pumpkin-seeds",
+    "name": "Monalisa Jumbo Pumpkin Seeds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MONALISA JUMBO PUMPKIN SEEDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "monalisa-mashadi-melon-seeds",
+    "name": "Monalisa Mashadi Melon Seeds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MONALISA MASHADI MELON SEEDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "monalisa-red-melon-seeds",
+    "name": "Monalisa Red Melon Seeds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MONALISA RED MELON SEEDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "monalisa-super-melon-seeds",
+    "name": "Monalisa Super Melon Seeds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MONALISA SUPER MELON SEEDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "monalisa-zatar",
+    "name": "Monalisa Zatar",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MONALISA ZATAR.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "monkey-nut",
+    "name": "Monkey Nut",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "110g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MONKEY NUT 110GR.jpg"
+      },
+      {
+        "size": "200g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/MONKEY NUT 200GR.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "naqul-almond",
+    "name": "Naqul Almond",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/NAQUL ALMOND.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "nibbed-almond",
+    "name": "Nibbed Almond",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/NIBBED ALMOND.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "nibbed-pistachio",
+    "name": "Nibbed Pistachio",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/NIBBED PISTACHIO.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "oriental-peanut-cracker-mix",
+    "name": "Oriental Peanut Cracker Mix",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/ORIENTAL PEANUT CRACKER MIX.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "peanut-blanched-salted",
+    "name": "Peanut Blanched Salted",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/PEANUT BLANCHED SALTED.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "peanut-blanched-unsalted",
+    "name": "Peanut Blanched Unsalted",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/PEANUT BLANCHED UNSALTED.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "peanut-raw-with-red-skin",
+    "name": "Peanut Raw With Red Skin",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/PEANUT RAW WITH RED SKIN.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "pine-nuts",
+    "name": "Pine Nuts",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/PINE NUTS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "pistachio-lemon",
+    "name": "Pistachio Lemon",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/PISTACHIO LEMON.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "pizza-cashew",
+    "name": "Pizza Cashew",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/PIZZA CASHEW.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "pretzels",
+    "name": "Pretzels",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/PRETZELS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "raw-almonds",
+    "name": "Raw Almonds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/RAW ALMONDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "raw-cashew",
+    "name": "Raw Cashew",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/RAW CASHEW.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "raw-jumbo-pumpkin-seeds",
+    "name": "Raw Jumbo Pumpkin Seeds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/RAW JUMBO PUMPKIN SEEDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "raw-peanut-with-pink-skin",
+    "name": "Raw Peanut With Pink Skin",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/RAW PEANUT WITH PINK SKIN.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "raw-sunflower-seeds-kernels",
+    "name": "Raw Sunflower Seeds Kernels",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/RAW SUNFLOWER SEEDS KERNELS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "red-melon-seeds",
+    "name": "Red Melon Seeds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/RED MELON SEEDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "saffron-pistachio",
+    "name": "Saffron Pistachio",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SAFFRON PISTACHIO.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "salted-almond-and-cashews",
+    "name": "Salted Almond & Cashews",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SALTED ALMOND & CASHEWS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "salted-cashew",
+    "name": "Salted Cashew",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SALTED CASHEW.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "salted-corn",
+    "name": "Salted Corn",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SALTED CORN.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sea-salt-and-black-pepper-cashew",
+    "name": "Sea Salt & Black Pepper Cashew",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SEA SALT & BLACK PEPPER CASHEW.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sea-salt-coarse",
+    "name": "Sea Salt Coarse",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SEA SALT COARSE.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sea-salt-fine",
+    "name": "Sea Salt Fine",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SEA SALT FINE.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sesame-seed-hulled",
+    "name": "Sesame Seed Hulled",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SESAME SEED HULLED.jpg"
+      },
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/1 KG/SESAME SEED HULLED.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "single-roasted-chickpea",
+    "name": "Single Roasted Chickpea",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SINGLE ROASTED CHICKPEA.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "smoked-cashews",
+    "name": "Smoked Cashews",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SMOKED CASHEWS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sugar-cube",
+    "name": "Sugar Cube",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SUGAR CUBE.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sugared-almonds",
+    "name": "Sugared Almonds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SUGARED ALMONDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sugared-chickpea",
+    "name": "Sugared Chickpea",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SUGARED CHICKPEA.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sumac-almonds",
+    "name": "Sumac Almonds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SUMAC ALMONDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sumac-cashews",
+    "name": "Sumac Cashews",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SUMAC CASHEWS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sumac-pistachio",
+    "name": "Sumac Pistachio",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/SUMAC PISTACHIO.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "taco-crunchy-peanuts",
+    "name": "Taco Crunchy Peanuts",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/TACO CRUNCHY PEANUTS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "tapioca-sago-small-sabudana",
+    "name": "Tapioca Sago Small (sabudana)",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/TAPIOCA SAGO SMALL (SABUDANA).jpg"
+      }
+    ]
+  },
+  {
+    "slug": "unhulled-sesame-seed",
+    "name": "Unhulled Sesame Seed",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/UNHULLED SESAME SEED.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "walnut-in-shell",
+    "name": "Walnut In Shell",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/WALNUT IN SHELL.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "zatar-almonds",
+    "name": "Zatar Almonds",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/ZATAR ALMONDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "zatar-cashews",
+    "name": "Zatar Cashews",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/ZATAR CASHEWS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "zatar",
+    "name": "Zatar",
+    "category": "Kuruyemis",
+    "subCategory": "Small Nut",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/NUTS/SMALL NUTS/ZATAR.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "black-beluga-lentils",
+    "name": "Black Beluga Lentils",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "15.00",
+        "retailDiscountPrice": "14.55",
+        "boxQty": 8,
+        "boxPrice": "55.00",
+        "boxDiscountPrice": "52.25",
+        "image": "/products/PULSES/1 KG/BLACK BELUGA LENTILS 1KG.jpg",
+        "unitStock": 4,
+        "boxStock": 10,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "black-eye-beans",
+    "name": "Black Eye Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "12.00",
+        "retailDiscountPrice": "9.60",
+        "boxQty": 8,
+        "boxPrice": "60.00",
+        "boxDiscountPrice": "54.00",
+        "image": "/products/PULSES/1 KG/BLACK EYE BEANS.jpg",
+        "unitStock": 3,
+        "boxStock": 14,
+        "vatClass": "zero"
+      },
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/BLACK EYE BEANS HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "black-turtle-beans",
+    "name": "Black Turtle Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BLACK TURTLE BEANS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "boiled-wheat",
+    "name": "Boiled Wheat",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BOILED WHEAT 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "borlotti-rosecoco-beans",
+    "name": "Borlotti Rosecoco Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BORLOTTI ROSECOCO BEANS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "broad-beans-split",
+    "name": "Broad Beans Split",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BROAD BEANS SPLIT.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "broad-beans",
+    "name": "Broad Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BROAD BEANS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "brown-bulgur-coarse",
+    "name": "Brown Bulgur Coarse",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BROWN BULGUR COARSE 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/BROWN BULGUR COARSE 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "brown-bulgur-fine",
+    "name": "Brown Bulgur Fine",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BROWN BULGUR FINE 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "brown-chickpea",
+    "name": "Brown Chickpea",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BROWN CHICKPEA 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "brown-couscous",
+    "name": "Brown Couscous",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BROWN COUSCOUS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "1.8kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/BROWN COUSCOUS 1.8KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "brown-lentil",
+    "name": "Brown Lentil",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BROWN LENTIL 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/BROWN LENTIL 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "bulgur-coarse",
+    "name": "Bulgur Coarse",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BULGUR COARSE 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/BULGUR COARSE 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/BULGUR COARSE 4KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "bulgur-coarse-with-vermicelli",
+    "name": "Bulgur Coarse With Vermicelli",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BULGUR COARSE WITH VERMICELLI 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/BULGUR COARSE WITH VERMICELLI 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/BULGUR COARSE WITH VERMICELLI 4KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "bulgur-extra-coarse",
+    "name": "Bulgur Extra Coarse",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BULGUR EXTRA COARSE 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "bulgur-extra-fine",
+    "name": "Bulgur Extra Fine",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BULGUR EXTRA FINE 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "bulgur-fine",
+    "name": "Bulgur Fine",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BULGUR FINE 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/BULGUR FINE 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/BULGUR FINE 4KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "bulgur-medium",
+    "name": "Bulgur Medium",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BULGUR MEDIUM 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/BULGUR MEDIUM 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/BULGUR MEDIUM 4KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "bulgur-medium-with-vermicelli",
+    "name": "Bulgur Medium With Vermicelli",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BULGUR MEDIUM WITH VERMICELLI 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "butter-beans",
+    "name": "Butter Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/BUTTER BEANS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "chana-dal",
+    "name": "Chana Dal",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/CHANA DAL 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/CHANA DAL HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "chickpea",
+    "name": "Chickpea",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/CHICKPEA 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "coucous",
+    "name": "Coucous",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/COUCOUS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "dark-speckled-puy-lentils",
+    "name": "Dark Speckled Puy Lentils",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/DARK SPECKLED PUY LENTILS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "freekeh",
+    "name": "Freekeh",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/FREEKEH.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "green-lentil",
+    "name": "Green Lentil",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/GREEN LENTIL 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/GREEN LENTIL 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/GREEN LENTIL 4KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "green-mung-beans",
+    "name": "Green Mung Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/GREEN MUNG BEANS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/GREEN MUNG BEANS HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "green-peas",
+    "name": "Green Peas",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/GREEN PEAS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "green-peas-split",
+    "name": "Green Peas Split",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/GREEN PEAS SPLIT 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "jareesh",
+    "name": "Jareesh",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/JAREESH 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/JAREESH 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "jumbo-chickpea",
+    "name": "Jumbo Chickpea",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/JUMBO CHICKPEA.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/JUMBO CHICKPEA 4KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/JUMBO CHICKPEA HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "marrowfat-green-peas",
+    "name": "Marrowfat Green Peas",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/MARROWFAT GREEN PEAS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "mung-beans-split",
+    "name": "Mung Beans Split",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/MUNG BEANS SPLIT 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/MUNG BEANS SPLIT HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "pearl-barley",
+    "name": "Pearl Barley",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/PEARL BARLEY 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "pinto-beans",
+    "name": "Pinto Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/PINTO BEANS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "popcorn",
+    "name": "Popcorn",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/POPCORN.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/POPCORN 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/POPCORN 4KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/POPCORN HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "red-cow-adzuki-beans",
+    "name": "Red Cow Adzuki Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/RED COW ADZUKI BEANS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "red-kidney-beans",
+    "name": "Red Kidney Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/RED KIDNEY BEANS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/RED KIDNEY BEANS 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/RED KIDNEY BEANS HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "red-lentil-split-masoor-dal",
+    "name": "Red Lentil Split (masoor Dal)",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/RED LENTIL SPLIT (MASOOR DAL) 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/RED LENTIL SPLIT (MASOOR DAL) 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/RED LENTIL SPLIT (MASOOR DAL) 4KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "red-lentil-split",
+    "name": "Red Lentil Split",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/RED LENTIL SPLIT 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/RED LENTIL SPLIT 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/RED LENTIL SPLIT 4KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "red-lentil-whole",
+    "name": "Red Lentil Whole",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/RED LENTIL WHOLE.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/RED LENTIL WHOLE 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/RED LENTIL WHOLE 4KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "small-white-beans",
+    "name": "Small White Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/SMALL WHITE BEANS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "soya-beans",
+    "name": "Soya Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/SOYA BEANS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "toor-dal",
+    "name": "Toor Dal",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/TOOR DAL 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/TOOR DAL HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "urid-beans",
+    "name": "Urid Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/URID BEANS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "urid-beans-split",
+    "name": "Urid Beans Split",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/URID BEANS SPLIT 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/URID BEANS SPLIT HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "urid-dal",
+    "name": "Urid Dal",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/URID DAL 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/URID DAL HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "white-beans",
+    "name": "White Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/WHITE BEANS.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/WHITE BEANS 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/WHITE BEANS 4KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "whole-wheat",
+    "name": "Whole Wheat",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/WHOLE WHEAT 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "yellow-lentils",
+    "name": "Yellow Lentils",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/YELLOW LENTILS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "yellow-mung-dal",
+    "name": "Yellow Mung Dal",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/YELLOW MUNG DAL 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "yellow-peas",
+    "name": "Yellow Peas",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/YELLOW PEAS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "yellow-split-peas",
+    "name": "Yellow Split Peas",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/1 KG/YELLOW SPLIT PEAS 1KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "chickpeas-jumbo",
+    "name": "Chickpeas Jumbo",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/CHICKPEAS JUMBO 2KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "couscous",
+    "name": "Couscous",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "1.8kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/2-4 KG/COUSCOUS 1.8KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "adzuki-beans",
+    "name": "Adzuki Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "450",
+        "retailPrice": "10.00",
+        "retailDiscountPrice": "9.80",
+        "boxQty": 20,
+        "boxPrice": "25.00",
+        "boxDiscountPrice": "22.50",
+        "image": "/products/PULSES/HALF KG/ADZUKI BEANS HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "borlotti-beans",
+    "name": "Borlotti Beans",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/BORLOTTI BEANS HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "brown-chikcpea",
+    "name": "Brown Chikcpea",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/BROWN CHIKCPEA HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "brown-lentils",
+    "name": "Brown Lentils",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/BROWN LENTILS HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "mung-dal",
+    "name": "Mung Dal",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/MUNG DAL HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "red-lentils-split-masoor-dal",
+    "name": "Red Lentils Split Masoor Dal",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/RED LENTILS SPLIT MASOOR DAL HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "urid-beans-whole",
+    "name": "Urid Beans Whole",
+    "category": "Bakliyat",
+    "subCategory": "Pulses",
+    "description": "",
+    "variants": [
+      {
+        "size": "500g",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 20,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/PULSES/HALF KG/URID BEANS WHOLE HALF KG.jpg",
+        "unitStock": 0,
+        "boxStock": 0,
+        "vatClass": "zero"
+      }
+    ]
+  },
+  {
+    "slug": "aytac-rice",
+    "name": "Aytac Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/AYTAC RICE 1KG.jpg"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/AYTAC RICE 4KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "baldo-rice",
+    "name": "Baldo Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/BALDO RICE 1KG.jpg"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/BALDO RICE 2KG.jpg"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/BALDO RICE 4KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "basmati-rice",
+    "name": "Basmati Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/BASMATI RICE 1KG.jpg"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/BASMATI RICE 2KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "broken-basmati-rice",
+    "name": "Broken Basmati Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/BROKEN BASMATI RICE 1KG.jpg"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/BROKEN BASMATI RICE 2KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "brown-rice",
+    "name": "Brown Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/BROWN RICE 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "easy-cook-rice",
+    "name": "Easy Cook Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/EASY COOK RICE 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "golden-sella-basmati-rice",
+    "name": "Golden Sella Basmati Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/GOLDEN SELLA BASMATI RICE 1KG.jpg"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/GOLDEN SELLA BASMATI RICE 2KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "long-grain-rice",
+    "name": "Long Grain Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/LONG GRAIN RICE 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "monalisa-rice",
+    "name": "Monalisa Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/MONALISA RICE 1KG.jpg"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/MONALISA RICE 2KG.jpg"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/MONALISA RICE 4KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "pudding-rice",
+    "name": "Pudding Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/PUDDING RICE 1KG.jpg"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/PUDDING RICE 2KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "risotto-rice",
+    "name": "Risotto Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/RISOTTO RICE 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sella-basmati-rice",
+    "name": "Sella Basmati Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/SELLA BASMATI RICE 1KG.jpg"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/SELLA BASMATI RICE 2KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "super-baldo-rice",
+    "name": "Super Baldo Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/SUPER BALDO RICE 1KG.jpg"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/SUPER BALDO RICE 2KG.jpg"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/SUPER BALDO RICE 4KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sushi-rice",
+    "name": "Sushi Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/SUSHI RICE 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "thai-jasmin-rice",
+    "name": "Thai Jasmin Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/THAI JASMIN RICE 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "tosya-rice",
+    "name": "Tosya Rice",
+    "category": "Bakliyat",
+    "subCategory": "Rice",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/1 KG/TOSYA RICE 1KG.jpg"
+      },
+      {
+        "size": "2kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/TOSYA RICE 2KG.jpg"
+      },
+      {
+        "size": "4kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 4,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/RICES/2-4 KG/TOSYA RICE 4KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "amaranth",
+    "name": "Amaranth",
+    "category": "Bakliyat",
+    "subCategory": "Seeds & Superfoods",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/1 KG/AMARANTH 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "black-quinoa",
+    "name": "Black Quinoa",
+    "category": "Bakliyat",
+    "subCategory": "Seeds & Superfoods",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/1 KG/BLACK QUINOA 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "chia-seeds",
+    "name": "Chia Seeds",
+    "category": "Bakliyat",
+    "subCategory": "Seeds & Superfoods",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/1 KG/CHIA SEEDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "flax-seeds",
+    "name": "Flax Seeds",
+    "category": "Bakliyat",
+    "subCategory": "Seeds & Superfoods",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/1 KG/FLAX SEEDS.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "mix-quinoa",
+    "name": "Mix Quinoa",
+    "category": "Bakliyat",
+    "subCategory": "Seeds & Superfoods",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/1 KG/MIX QUINOA 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "raw-buckwheat",
+    "name": "Raw Buckwheat",
+    "category": "Bakliyat",
+    "subCategory": "Seeds & Superfoods",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/1 KG/RAW BUCKWHEAT 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "red-quinoa",
+    "name": "Red Quinoa",
+    "category": "Bakliyat",
+    "subCategory": "Seeds & Superfoods",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/1 KG/RED QUINOA 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "roasted-buckwheat",
+    "name": "Roasted Buckwheat",
+    "category": "Bakliyat",
+    "subCategory": "Seeds & Superfoods",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/1 KG/ROASTED BUCKWHEAT 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "sesame-seed-natural",
+    "name": "Sesame Seed Natural",
+    "category": "Bakliyat",
+    "subCategory": "Seeds & Superfoods",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/1 KG/SESAME SEED NATURAL.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "white-quinoa",
+    "name": "White Quinoa",
+    "category": "Bakliyat",
+    "subCategory": "Seeds & Superfoods",
+    "description": "",
+    "variants": [
+      {
+        "size": "1kg",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 8,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/1 KG/WHITE QUINOA 1KG.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "chia-seeds16kg",
+    "name": "Chia Seeds1.6kg",
+    "category": "Bakliyat",
+    "subCategory": "Seeds & Superfoods",
+    "description": "",
+    "variants": [
+      {
+        "size": "",
+        "retailPrice": "",
+        "retailDiscountPrice": "",
+        "boxQty": 0,
+        "boxPrice": "",
+        "boxDiscountPrice": "",
+        "image": "/products/SUPERFOODS-SEEDS/2-4 KG/CHIA SEEDS1.6KG.jpg"
+      }
+    ]
+  }
+]
