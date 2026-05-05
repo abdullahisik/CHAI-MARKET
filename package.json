@@ -37,3 +37,8 @@
     "typescript": "^5"
   }
 }
+"prisma": {
+  "generate": {
+    "binaryTargets": ["native", "linux-musl"]
+  }
+}
