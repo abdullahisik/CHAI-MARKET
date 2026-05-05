@@ -1,0 +1,130 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  SUPER_ADMIN
+  ADMIN
+  EDITOR
+  STOCK_MANAGER
+  ORDER_MANAGER
+}
+
+enum ThemePreset {
+  CLASSIC
+  PREMIUM
+  MODERN
+}
+
+model Store {
+  id               String        @id @default(cuid())
+  name             String
+  slug             String        @unique
+  domain           String?
+  logoUrl          String?
+  mainColor        String        @default("#0f3b2e")
+  secondaryColor   String        @default("#d4af37")
+  currency         String        @default("GBP")
+  themePreset      ThemePreset   @default(CLASSIC)
+  companyEmail     String?
+  supportEmail     String?
+  orderEmail       String?
+  contactPhone     String?
+  whatsappNumber   String?
+  addressLine1     String?
+  addressLine2     String?
+  city             String?
+  postcode         String?
+  country          String?
+  isActive         Boolean       @default(true)
+  createdAt        DateTime      @default(now())
+  updatedAt        DateTime      @updatedAt
+
+  users            User[]
+  categories       Category[]
+  products         Product[]
+  siteSettings     SiteSetting[]
+}
+
+model User {
+  id           String   @id @default(cuid())
+  storeId      String
+  name         String
+  email        String   @unique
+  passwordHash String
+  role         UserRole @default(ADMIN)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  store        Store    @relation(fields: [storeId], references: [id], onDelete: Cascade)
+}
+
+model Category {
+  id        String    @id @default(cuid())
+  storeId   String
+  name      String
+  slug      String
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  store     Store     @relation(fields: [storeId], references: [id], onDelete: Cascade)
+  products  Product[]
+
+  @@unique([storeId, slug])
+}
+
+model Product {
+  id                String    @id @default(cuid())
+  storeId           String
+  name              String
+  slug              String
+  sku               String?
+  barcode           String?
+  brand             String?
+  categoryId        String?
+  weight            String?
+  packSize          String?
+  costPrice         Float?
+  salePrice         Float?
+  comparePrice      Float?
+  stockQuantity     Int       @default(0)
+  lowStockThreshold Int       @default(5)
+  description       String?
+  imageUrl          String?
+  isActive          Boolean   @default(true)
+  isFeatured        Boolean   @default(false)
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+
+  store             Store     @relation(fields: [storeId], references: [id], onDelete: Cascade)
+  category          Category? @relation(fields: [categoryId], references: [id], onDelete: SetNull)
+
+  @@unique([storeId, slug])
+}
+
+model SiteSetting {
+  id             String   @id @default(cuid())
+  storeId        String
+  siteName       String   @default("CHAI MARKET")
+  logoUrl        String?
+  mainColor      String   @default("#0f3b2e")
+  secondaryColor String   @default("#d4af37")
+  headerText     String   @default("Wholesale & Retail Food Store")
+  footerText     String   @default("Wholesale & retail food products across Manchester and the UK.")
+  contactPhone   String?
+  contactEmail   String?
+  whatsappNumber String?
+  instagramUrl   String?
+  facebookUrl    String?
+  tiktokUrl      String?
+  updatedAt      DateTime @updatedAt
+
+  store          Store    @relation(fields: [storeId], references: [id], onDelete: Cascade)
+
+  @@unique([storeId])
+}
